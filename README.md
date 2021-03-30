@@ -1,5 +1,5 @@
-## Hello world, I'm Brad from Manchester 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇬🇧
-My name is Brad Tyldesley and I'm an ex IT recruiter turned aspiring AWS DevOps Engineer. Originally from Bolton, I now live and work in Manchester.
+## Hello World 👋
+My name is Brad Tyldesley and I'm an ex IT recruiter turned aspiring AWS DevOps Engineer. Originally from Bolton, I now live and work in Manchester 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇬🇧.
 
 ### Currently working on...
 I am currently studying for both the AWS certified cloud practitioner and solutions architect associate certifications. My aim is to achieve a good depth of conceptual understanding through study and then use this knowledge to launch my career in technology.
