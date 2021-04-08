@@ -1,7 +1,7 @@
-## Hello World 👋
-<img align="right" width="33%" src="https://user-images.githubusercontent.com/81243809/114009905-7e19d480-985b-11eb-8952-e912f9daeab9.gif"> 
+## Hello World 👋 I'm Brad
+<img align="right" width="50%" src="https://user-images.githubusercontent.com/81243809/114013399-65abb900-985f-11eb-84b8-27d0853ecf26.gif"> 
 
-My name is Brad Tyldesley and I'm an ex IT recruiter turned aspiring AWS DevOps Engineer. Originally from Bolton, I now live and work in Manchester
+An ex IT recruiter turned aspiring Cloud Engineer. Originally from Bolton, I now live and work in Manchester 
 
 ### Currently working on...
 I am currently studying for both the AWS certified cloud practitioner and solutions architect associate certifications. My aim is to achieve a good depth of conceptual understanding through study and then use this knowledge to launch my career in technology.
