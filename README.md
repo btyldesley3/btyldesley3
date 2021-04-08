@@ -1,7 +1,7 @@
 ## Hello World 👋 I'm Brad
-<img align="right" width="30%" src="https://user-images.githubusercontent.com/81243809/114013681-b7544380-985f-11eb-98d0-207b2e416271.gif"> 
+<img align="right" height="20%" width="20%" src="https://user-images.githubusercontent.com/81243809/114013681-b7544380-985f-11eb-98d0-207b2e416271.gif"> 
 
-An ex IT recruiter turned aspiring Cloud Engineer. Originally from Bolton, I now live and work in Manchester 
+An ex IT recruiter turned aspiring Cloud Engineer. Originally from Bolton, I now live and work in Manchester
 
 ### Currently working on...
 I am currently studying for both the AWS certified cloud practitioner and solutions architect associate certifications. My aim is to achieve a good depth of conceptual understanding through study and then use this knowledge to launch my career in technology.
