@@ -1,5 +1,5 @@
 ## Hello World 👋 I'm Brad
-<img align="right" width="50%" src="https://user-images.githubusercontent.com/81243809/114013399-65abb900-985f-11eb-84b8-27d0853ecf26.gif"> 
+<img align="right" width="30%" src="https://user-images.githubusercontent.com/81243809/114013681-b7544380-985f-11eb-98d0-207b2e416271.gif"> 
 
 An ex IT recruiter turned aspiring Cloud Engineer. Originally from Bolton, I now live and work in Manchester 
 
