@@ -3,9 +3,9 @@
 
 
 #### An ex IT recruiter turned aspiring Cloud Engineer. Originally from Bolton, I now live and work in Manchester - here are some quick facts about me...
-- 🔭 I’m currently working on AWS certified Solutions Architect and Cloud Practitoner
-- 🌱 I’m currently learning AWS and DevOps!
-- 👯 I’m looking to collaborate on anything cloud or DevOps
+- 🏋️ I’m currently working on AWS certified Solutions Architect and Cloud Practitoner
+- 🌱 I’m currently learning all things AWS, Terraform and Python
+- 🤝 I would be interested in collaborating on anything cloud or DevOps!
 - ⚡ Fun fact: I have a Masters degree in Sports Science
 
 #### Connect with me
