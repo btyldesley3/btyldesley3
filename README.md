@@ -1,4 +1,9 @@
 ## Hello World 👋
+
+<p align="center">
+![Messi_hi_GIF](https://user-images.githubusercontent.com/81243809/114007904-a56fa200-9859-11eb-90e2-4b9f3480f4f9.gif)
+</p>
+
 My name is Brad Tyldesley and I'm an ex IT recruiter turned aspiring AWS DevOps Engineer. Originally from Bolton, I now live and work in Manchester 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇬🇧.
 
 ### Currently working on...
