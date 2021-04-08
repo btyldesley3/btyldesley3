@@ -2,7 +2,7 @@
 <img align="right" height="30%" width="30%" src="https://user-images.githubusercontent.com/81243809/114013681-b7544380-985f-11eb-98d0-207b2e416271.gif"> 
 
 
-#### An ex IT recruiter turned aspiring Cloud Engineer. Originally from Bolton, I now live and work in Manchester
+#### An ex IT recruiter turned aspiring Cloud Engineer. Originally from Bolton, I now live and work in Manchester - here are some quick facts about me...
 - 🔭 I’m currently working on AWS certified Solutions Architect and Cloud Practitoner
 - 🌱 I’m currently learning AWS and DevOps!
 - 👯 I’m looking to collaborate on anything cloud or DevOps
