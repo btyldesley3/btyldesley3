@@ -1,7 +1,7 @@
 ## Hello World 👋 I'm Brad
 <img align="right" height="30%" width="30%" src="https://user-images.githubusercontent.com/81243809/114013681-b7544380-985f-11eb-98d0-207b2e416271.gif"> 
 
-#### An ex IT recruiter turned Software Engineer - painfully self taught. Originally from Bolton, I now live and work in Manchester - here are some quick facts about me...
+#### An ex IT recruiter turned Java Software Engineer - painfully self taught. Originally from Bolton, I now live and work in Manchester - here are some quick facts about me...
 - 🏋️ I’m currently working on CS50 and Oracle Certification
 - 🌱 I’m currently learning all things Java, SQL and AWS
 - 🤝 I would be interested in collaborating on anything Java or AWS!
