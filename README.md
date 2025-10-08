@@ -24,6 +24,5 @@
 
 <!-- Links to social media accounts -->
 
-[1]: https://twitter.com/btilly3
 [2]: https://www.linkedin.com/in/brad-tyldesley-12b8a9149/
 [3]: https://instagram.com/bradtyldesley
