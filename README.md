@@ -8,7 +8,6 @@
 - ⚡ Fun fact: I have a Masters degree in Sports Science
 
 #### Connect with me
-[![Twitter][1.2]][1]
 [![LinkedIn][2.2]][2]
 [![Instagram][3.2]][3]
 
