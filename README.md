@@ -9,7 +9,6 @@
 
 #### Connect with me
 [![LinkedIn][2.2]][2]
-[![Instagram][3.2]][3]
 
 ### 📈 GitHub Stats
 
@@ -25,4 +24,3 @@
 <!-- Links to social media accounts -->
 
 [2]: https://www.linkedin.com/in/brad-tyldesley-12b8a9149/
-[3]: https://instagram.com/bradtyldesley
